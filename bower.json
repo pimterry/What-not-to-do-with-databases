@@ -1,0 +1,7 @@
+{
+  "name": "presentation-what-not-to-do-with-databases",
+  "version": "0.0.0",
+  "dependencies": {
+    "prism": "gh-pages"
+  }
+}
